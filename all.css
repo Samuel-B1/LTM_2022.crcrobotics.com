@@ -35,7 +35,7 @@ header {
     border: 4px double #cccccc;
     color: #eeeeee;
     text-align: inherit;
-    font-size: 20px;
+    font-size: 15px;
     width: 10%;
     height: 15%;
     transition: all 0.5s;
@@ -49,6 +49,7 @@ header {
     color: black;
     box-shadow: inset 258px 0 0 0 orange;
     border-color: yellow;
+    text-align: center;
  }
  
  .button-french-home{
